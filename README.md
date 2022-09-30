@@ -1,6 +1,6 @@
 # OrdenacionDePalabrasJava
 
-Trabajo realizado para la ordenación de palabras en orden alfabético.
+Trabajo realizado para la ordenación de palabras en orden alfabético (sin la letra ñ).
 Ordena las palabras creando un árbol de nodos. Cada nodo representa un caracter de la palabra.
 Al insertar una lista de palabras, se crea este árbol de nodos.
 Cada nodo está compuesto de una lista de nodos hijo (uno por cada letra del alfabeto), de su nodo padre y de una variable (terminaPalabra) que determina si la palabra insertada termina en esa letra.

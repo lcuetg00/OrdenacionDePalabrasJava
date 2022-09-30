@@ -10,7 +10,7 @@ public class Main {
 		
 		ArrayList<String> listaOrdenada = arbol.recogerPalabras();
 		
-		for(int i=0;i<listaOrdenada.size();i++) {
+		for(int i=0; i < listaOrdenada.size();i++) {
 			System.out.println(listaOrdenada.get(i));
 		}
 		
